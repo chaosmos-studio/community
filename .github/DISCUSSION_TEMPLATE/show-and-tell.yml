@@ -1,0 +1,18 @@
+body:
+  - type: dropdown
+    id: game
+    attributes:
+      label: Game
+      options:
+        - Plumb
+        - Carillon
+        - Apsis
+    validations:
+      required: true
+  - type: textarea
+    id: share
+    attributes:
+      label: What you are sharing
+      description: A share card, a reel, a route you are proud of. Put any solution inside a spoiler with <details>.
+    validations:
+      required: true

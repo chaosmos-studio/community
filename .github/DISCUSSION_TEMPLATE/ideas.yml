@@ -1,0 +1,19 @@
+body:
+  - type: dropdown
+    id: game
+    attributes:
+      label: Game
+      options:
+        - Plumb
+        - Carillon
+        - Apsis
+        - A new game
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: A new rule, a kind of level, a feature or anything else. Sketches and screenshots are welcome.
+    validations:
+      required: true

@@ -1,0 +1,29 @@
+body:
+  - type: dropdown
+    id: game
+    attributes:
+      label: Game
+      options:
+        - Plumb
+        - Carillon
+        - Apsis
+        - The website
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Level, or where in the game
+      placeholder: Level 42, or the Settings screen
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: Stuck on a level? Say what you have tried. Something not working? Say what you expected and what happened.
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Game version and phone, for a bug
+      placeholder: 1.2.0 on a Pixel 8
