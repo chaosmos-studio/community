@@ -30,8 +30,8 @@ Everything happens in [Discussions](https://github.com/chaosmos-studio/community
 
 ## The games
 
-- [Plumb](https://chaosmos.studio/plumb/): tilt the board, and every marble rolls at once.
-- [Carillon](https://chaosmos.studio/carillon/): one tap, and the chain plays a tune.
-- [Apsis](https://chaosmos.studio/apsis/): send every arrow out of orbit, in the right order.
+- [Plumb](https://chaosmos.studio/games/plumb/): tilt the board, and every marble rolls at once.
+- [Carillon](https://chaosmos.studio/games/carillon/): one tap, and the chain plays a tune.
+- [Apsis](https://chaosmos.studio/games/apsis/): send every arrow out of orbit, in the right order.
 
 Something private? Write to hello@chaosmos.studio.
